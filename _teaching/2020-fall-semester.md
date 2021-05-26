@@ -4,7 +4,7 @@ collection: teaching
 type: "BSc course - German"
 permalink: /teaching/2020-fall-semester
 venue: "University of Bern, Institute of Computer Science"
-# date: 2014-01-01
+date: 2020-09-01
 location: "Bern, Switzerland"
 ---
 
