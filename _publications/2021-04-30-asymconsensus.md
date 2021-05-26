@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-asymconsensus
 excerpt: 'Asymmetric Asynchronous Byzantine Consensus'
 # date: 2021-04-30
-venue: CBT 2021
+venue: CBT
 paperurl: https://arxiv.org/abs/2005.08795v2
 # citation: 
 ---
