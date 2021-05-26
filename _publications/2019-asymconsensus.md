@@ -2,7 +2,7 @@
 title: "From Symmetric to Asymmetric Asynchronous Byzantine Consensus"
 collection: publications
 permalink: /publication/2019-asymconsensus
-excerpt: ''
+excerpt: 'Asymmetric Asynchronous Byzantine Consensus'
 date: 
 venue: ''
 paperurl: 'https://arxiv.org/abs/2005.08795v2'
