@@ -2,7 +2,7 @@
 title: "From Symmetric to Asymmetric Asynchronous Byzantine Consensus"
 collection: publications
 permalink: /publication/2019-asymconsensus
-excerpt: 'Asymmetric Asynchronous Byzantine Consensus'
+excerpt: 'Asymmetric Asynchronous Byzantine Consensus. [Blog Post](https://cryptobern.github.io/asymconsensus/)'
 # date: 2021-04-30
 venue: CBT
 paperurl: https://arxiv.org/abs/2005.08795v2
