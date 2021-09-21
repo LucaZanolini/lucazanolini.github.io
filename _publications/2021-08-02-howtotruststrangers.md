@@ -15,6 +15,7 @@ Reaching consensus with asymmetric trust in the model of personal Byzantine quor
 _Co-authored by_ Orestis Alpost and Christian Cachin
 
 [Download paper here](https://arxiv.org/abs/2107.11331) 
-
 [SRDS 2021](https://www.youtube.com/watch?v=Q-o_laKhFSE&t=7s)
+
+
 
