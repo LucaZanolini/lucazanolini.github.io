@@ -18,13 +18,13 @@ Education
 Work experience
 ======
 * 2017-2018: Blockchain Developer
-  * (https://www.interlogica.it/en/)[Interlogica] 
+  * Interlogica, Venice (IT)
 
 * 2019-Ongoing: Teaching Assistant
-  * (https://crypto.unibe.ch)[University of Bern]
+  * University of Bern, Bern (CH)
 
 * Summer 2021: Research Intern
-  * (https://chainlinklabs.com)[Chainlink]
+  * Chainlink
   
 Programming Skills
 ======
@@ -34,7 +34,7 @@ Programming Skills
   * Python
   * Javascript
 * Advanced Level
-  * Solidity - Certified from (https://consensys.net/academy/bootcamp/)[ConsenSys]
+  * Solidity - Certified from ConsenSys (2018)
   * Go
 
 Languages
