@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2015
+* M.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2017
+* Ph.D in Computer Science, University of Bern, Bern (CH), 2022 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2018: Blockchain Developer
+  * (https://www.interlogica.it/en/)[Interlogica] 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-Ongoing: Teaching Assistant
+  * (https://crypto.unibe.ch)[University of Bern]
+
+* Summer 2021: Research Intern
+  * (https://chainlinklabs.com)[Chainlink]
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Basic Level
+  * Java
+  * C
+  * Python
+  * Javascript
+* Advanced Level
+  * Solidity - Certified from (https://consensys.net/academy/bootcamp/)[ConsenSys]
+  * Go
+
+Languages
+======
+* Italian (native)
+* English (proficient)
+* German (beginner/intermediate)
 
 Publications
 ======
@@ -53,7 +60,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
