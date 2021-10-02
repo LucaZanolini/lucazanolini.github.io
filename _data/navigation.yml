@@ -13,13 +13,13 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-    - title: "About Me"
+  - title: "About Me"
     url: /about/  
     
   #- title: "Portfolio"
   #  url: /portfolio/
     
-   - title: "CV"
+  - title: "CV"
     url: /cv/
     
   # - title: "Guide"
