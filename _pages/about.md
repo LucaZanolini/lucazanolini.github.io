@@ -16,9 +16,9 @@ I am a third-year Ph.D. student in [Cryptology and Data Security](https://crypto
 
 In summer 2021 I worked at [Chainlink](https://chainlinklabs.com) as research intern.
 
-Before joining the Ph.D., I worked for a year and a half in [Interlogica](https://www.interlogica.it/en/) as Blockchain developer. In that year I also received the certification as Ethereum developer from [ConsenSys](https://consensys.net/academy/bootcamp/). 
+Before joining the Ph.D., I worked for a year and a half in [Interlogica](https://www.interlogica.it/en/) as Blockchain developer and I have been certified Ethereum developer from [ConsenSys](https://consensys.net/academy/bootcamp/). 
 
-During my working activities I program in **Solidity** and **Go**, and I have a basic knowledge of **Python**, **Javascript** and **Java**. 
+I program in **Solidity** and **Go**, and I have a basic knowledge of **Python**, **Javascript** and **Java**. 
 
 I speak **Italian** (native), **English** (proficient) and **German** (beginner/intermediate). 
 
