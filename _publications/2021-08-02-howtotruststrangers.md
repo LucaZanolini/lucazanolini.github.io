@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2021-asymsystem
 excerpt: 'How to Trust Strangers: Composition of Byzantine Quorum Systems. [Blog Post](https://cryptobern.github.io/howtotruststrangers/)'
 # date: 2021-04-30
-venue: SRDS 
+venue: [SRDS](https://ieeexplore.ieee.org/document/9603623)
+[DISC](https://drops.dagstuhl.de/opus/volltexte/2021/14846/)
 paperurl: https://arxiv.org/abs/2107.11331
 # citation: 
 ---

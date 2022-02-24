@@ -1,14 +1,16 @@
 ---
-title: "From Symmetric to Asymmetric Asynchronous Byzantine Consensus"
+title: "Asymmetric Asynchronous Byzantine Consensus"
 collection: publications
 permalink: /publication/2019-asymconsensus
-excerpt: 'Asymmetric Asynchronous Byzantine Consensus. [Blog Post 1](https://cryptobern.github.io/asymconsensus/), [Blog Post 2](https://cryptobern.github.io/revisiting/)'
+excerpt: 'Asymmetric Asynchronous Byzantine Consensus. [Blog Post 1](https://cryptobern.github.io/asymconsensus/)'
 # date: 2021-04-30
-venue: CBT
+venue: [CBT](https://link.springer.com/chapter/10.1007/978-3-030-93944-1_13)
 paperurl: https://arxiv.org/abs/2005.08795
 # citation: 
 ---
-Consensus is arguably one of the most important notions in distributed computing. Among asynchronous, randomized, and signature-free implementations, the protocols of Mostéfaoui et al. (PODC 2014 and JACM 2015) represent a landmark result, which has been extended later and taken up in practical systems. The protocols achieve optimal resilience and takes, in expectation, only a constant expected number of rounds of quadratic message complexity. Randomization is provided through a common-coin primitive. In traditional consensus protocols, all involved processes adhere to a global, symmetric failure model, typically only defined by bounds on the number of faulty processes. Motivated by applications to blockchains, however, more flexible trust assumptions have recently been considered. In particular, with asymmetric trust, a process is free to choose which other processes it trusts and which ones might collude against it. This paper revisits the optimal asynchronous protocol of Mostéfaoui et al. and shows how to realize it with asymmetric trust. The paper starts by pointing out in detail why some versions of this protocol may violate liveness. Then it proposes a fix for the protocol that does not affect its properties, but lets it regain the simplicity of its original version (PODC 2014). At the same time, the paper shows how to realize randomized signature-free asynchronous Byzantine consensus with asymmetric quorums. This results in an optimal consensus protocol with subjective, asymmetric trust and constant expected running time. It is suitable for applications to blockchains, for instance.
+An important element of every blockchain network is its protocol for reaching consensus. In traditional, permissioned consensus protocols, all involved processes adhere to a global, symmetric failure model, typically only defined by bounds on the number of faulty processes. More flexible trust assumptions have recently been considered, especially in connection with blockchains. With asymmetric trust, in particular, a process is free to choose which other processes it trusts and which ones might collude against it.
+
+Cachin and Tackmann (OPODIS 2019) introduced asymmetric quorum systems as a generalization of Byzantine quorum systems, which are the key abstraction for realizing consensus in a system with symmetric trust. This paper shows how to realize randomized signature-free asynchronous Byzantine consensus with asymmetric quorums. This results in an optimal consensus protocol with subjective, asymmetric trust and constant expected running time, which is suitable for applications in blockchain networks.
 
 _Co-authored by_ Christian Cachin
 
