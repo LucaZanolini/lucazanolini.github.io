@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2021-revisiting
 excerpt: 'Brief Announcement: Revisiting Signature-Free Asynchronous Byzantine Consensus. [Blog Post 1](https://cryptobern.github.io/revisiting/)'
 # date: 2021-04-30
-venue: [DISC](https://drops.dagstuhl.de/opus/volltexte/2021/14853/) 
-paperurl: https://drops.dagstuhl.de/opus/volltexte/2021/14853/pdf/LIPIcs-DISC-2021-51.pdf
+venue: DISC
+paperurl: https://drops.dagstuhl.de/opus/volltexte/2021/14853/
 # citation: 
 ---
 Among asynchronous, randomized, and signature-free implementations of consensus, the protocols of Mostéfaoui et al. (PODC 2014 and JACM 2015) represent a landmark result, which has been extended later and taken up in practical systems. The protocols achieve optimal resilience and take, in expectation, only a constant expected number of rounds and have quadratic message complexity. Randomization is provided through a common-coin primitive. However, the first version of this simple and appealing protocol suffers from a little-known liveness issue due to asynchrony. The JACM 2015 version avoids the problem, but is considerably more complex.

@@ -4,9 +4,8 @@ collection: publications
 permalink: /publication/2021-asymsystem
 excerpt: 'How to Trust Strangers: Composition of Byzantine Quorum Systems. [Blog Post](https://cryptobern.github.io/howtotruststrangers/)'
 # date: 2021-04-30
-venue: [SRDS](https://ieeexplore.ieee.org/document/9603623)
-[DISC](https://drops.dagstuhl.de/opus/volltexte/2021/14846/)
-paperurl: https://arxiv.org/abs/2107.11331
+venue: SRDS, DISC (Brief Announcement)
+paperurl: https://ieeexplore.ieee.org/document/9603623
 # citation: 
 ---
 Trust is the basis of any distributed, fault-tolerant, or secure system. A trust assumption specifies the failures that a system, such as a blockchain network, can tolerate and determines the conditions under which it operates correctly. In systems subject to Byzantine faults, the trust assumption is usually specified through sets of processes that may fail together. Trust has traditionally been symmetric, such that all processes in the system adhere to the same, global assumption about potential faults. Recently, asymmetric trust models have also been considered, especially in the context of blockchains, where every participant is free to choose who to trust. 
@@ -16,6 +15,7 @@ Reaching consensus with asymmetric trust in the model of personal Byzantine quor
 _Co-authored by_ Orestis Alpost and Christian Cachin
 
 [Download paper here](https://arxiv.org/abs/2107.11331) 
+[Download DISC paper here](https://drops.dagstuhl.de/opus/volltexte/2021/14846/)
 
 
 
