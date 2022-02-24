@@ -14,4 +14,4 @@ Cachin and Tackmann (OPODIS 2019) introduced asymmetric quorum systems as a gene
 
 _Co-authored by_ Christian Cachin
 
-[Download paper here](https://arxiv.org/abs/2005.08795v2) 
+[arXiv paper here](https://arxiv.org/abs/2005.08795v2) 

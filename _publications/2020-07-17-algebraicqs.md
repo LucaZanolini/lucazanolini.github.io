@@ -12,4 +12,4 @@ Quorum systems are a key mathematical abstraction in distributed fault-tolerant 
 
 _Co-authored by_ Alex Pellegrini
 
-[Download paper here](https://arxiv.org/abs/2005.08536) 
+[arXiv paper here](https://arxiv.org/abs/2005.08536) 
