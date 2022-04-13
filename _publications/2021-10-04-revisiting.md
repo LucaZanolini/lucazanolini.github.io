@@ -2,7 +2,7 @@
 title: "Brief Announcement: Revisiting Signature-Free Asynchronous Byzantine Consensus"
 collection: publications
 permalink: /publication/2021-revisiting
-excerpt: 'Brief Announcement: Revisiting Signature-Free Asynchronous Byzantine Consensus. [Blog Post 1](https://cryptobern.github.io/revisiting/)'
+excerpt: 'Brief Announcement: Revisiting Signature-Free Asynchronous Byzantine Consensus. [Blog Post](https://cryptobern.github.io/revisiting/)'
 # date: 2021-04-30
 venue: DISC
 paperurl: https://drops.dagstuhl.de/opus/volltexte/2021/14853/

@@ -2,7 +2,7 @@
 title: "Asymmetric Asynchronous Byzantine Consensus"
 collection: publications
 permalink: /publication/2019-asymconsensus
-excerpt: 'Asymmetric Asynchronous Byzantine Consensus. [Blog Post 1](https://cryptobern.github.io/asymconsensus/)'
+excerpt: 'Asymmetric Asynchronous Byzantine Consensus. [Blog Post](https://cryptobern.github.io/asymconsensus/)'
 # date: 2021-04-30
 venue: CBT
 paperurl: https://link.springer.com/chapter/10.1007/978-3-030-93944-1_13
