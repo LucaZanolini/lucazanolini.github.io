@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2015
 * M.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2017
-* Ph.D in Computer Science, University of Bern, Bern (CH), 2022 (Expected)
+* Ph.D in Computer Science, University of Bern, Bern (CH), 2023 (Expected)
 
 Work experience
 ======
@@ -25,6 +25,9 @@ Work experience
 
 * Summer 2021: Research Intern
   * Chainlink
+
+* 2022-Ongoing: Researcher
+  * Ethereum Foundation
   
 Programming Skills
 ======
