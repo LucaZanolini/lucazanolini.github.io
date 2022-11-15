@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in [Cryptology and Data Security](https://crypto.unibe.ch) at University of Bern. My [research interests](https://dblp.uni-trier.de/pid/265/5787.html) include **blockchains**, **distributed systems**, **consensus** protocols and **quorum** systems. I graduated in **Mathematics** from [Università Cattolica del Sacro Cuore](https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali?rdeLocaleAttr=en) with a thesis on Pairing-based Cryptography. During my Ph.D. I am involved in teaching activities with my advisor Prof. [Christian Cachin](https://crypto.unibe.ch/cc/):
+I am a fourth-year Ph.D. student in [Cryptology and Data Security](https://crypto.unibe.ch) at University of Bern and a researcher at the [Ethereum Foundation](https://ethereum.org/en/foundation/). My [research interests](https://dblp.uni-trier.de/pid/265/5787.html) include **blockchains**, **distributed systems**, **consensus** protocols and **quorum** systems. I graduated in **Mathematics** from [Università Cattolica del Sacro Cuore](https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali?rdeLocaleAttr=en) with a thesis on Pairing-based Cryptography. During my Ph.D. I am involved in teaching activities with my advisor Prof. [Christian Cachin](https://crypto.unibe.ch/cc/):
 
 - In the fall semester of 2019 I was teaching assistant in the **Cryptography** course; 
 - In the fall semester of 2020 I was teaching assistant in the Discrete Mathematics course;
-- In the fall semester 2021 I was teaching assistant in the **Privacy and Data Security** course.
+- In the fall semester 2021 I was teaching assistant in the **Privacy and Data Security** course;
+- In the fall semester of 2022 I was teaching assistant in the Discrete Mathematics course.
 
 In summer 2021 I worked at [Chainlink](https://chainlinklabs.com) as research intern.
 

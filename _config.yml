@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luca Zanolini"
   avatar           : "profile.jpg"
-  bio              : "Mathematician, Ph.D. Student in Cryptology and Data Security at University of Bern."
+  bio              : "Mathematician, Ph.D. Student in Cryptology and Data Security at University of Bern. Researcher at the Ethereum Foundation."
   location         : "Switzerland"
   employer         : "University of Bern"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "lucazanolini1992"
+  facebook         : #""
   foursquare       :
   github           : "LucaZanolini"
   google_plus      :
