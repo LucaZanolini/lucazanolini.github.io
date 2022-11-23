@@ -12,7 +12,7 @@ Leader-based protocols for consensus, i.e., atomic broadcast, allow some process
 
 _Co-authored by_ Sarah Azouvi, Christian Cachin, Duc V. Le, and Marko Vukolić
 
-[arXiv paper here]() 
+[arXiv paper here](https://arxiv.org/abs/2211.12050) 
 
 
 
