@@ -15,5 +15,3 @@ _Christian Cachin, Giuliano Losa, and Luca Zanolini_
 ConsensusDay 2022
  [ConsensusDay 2022](https://research.protocol.ai/sites/consensusday22/)
 
-Presentation on YouTube - coming soon
-
