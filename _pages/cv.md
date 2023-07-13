@@ -11,24 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2015
+
+* Ph.D in Computer Science, University of Bern, Bern (CH), 2023 
 * M.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2017
-* Ph.D in Computer Science, University of Bern, Bern (CH), 2023 (Expected)
+* B.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2015
 
 Work experience
 ======
-* 2017-2018: Blockchain Developer
-  * Interlogica, Venice (IT)
 
-* 2019-Ongoing: Teaching Assistant
-  * University of Bern, Bern (CH)
+* 2022-Ongoing: Research Scientist
+  * Ethereum Foundation
 
 * Summer 2021: Research Intern
   * Chainlink
 
-* 2022-Ongoing: Researcher
-  * Ethereum Foundation
-  
+* 2019-2023: Teaching Assistant
+  * University of Bern, Bern (CH)
+
+* 2017-2018: Blockchain Developer
+  * Interlogica, Venice (IT)
+
 Programming Skills
 ======
 * Basic Level

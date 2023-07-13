@@ -8,18 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Cryptology and Data Security](https://crypto.unibe.ch) at University of Bern and a researcher at the [Ethereum Foundation](https://ethereum.org/en/foundation/). My [research interests](https://dblp.uni-trier.de/pid/265/5787.html) include **blockchains**, **distributed systems**, **consensus** protocols, and **quorum** systems. I graduated in **Mathematics** from [Università Cattolica del Sacro Cuore](https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali?rdeLocaleAttr=en) with a thesis on Pairing-based Cryptography. During my Ph.D. I am involved in teaching activities with my advisor Prof. [Christian Cachin](https://crypto.unibe.ch/cc/):
+I am a research scientist at the [Ethereum Foundation](https://ethereum.org/en/foundation/). My [research interests](https://dblp.uni-trier.de/pid/265/5787.html) include **blockchains**, **distributed systems**, and **consensus** protocols. My present work centers on developing *dynamically available* consensus protocols. 
 
-- In the fall semester of 2019 I was teaching assistant in the **Cryptography** course; 
-- In the fall semester of 2020 I was teaching assistant in the Discrete Mathematics course;
-- In the fall semester 2021 I was teaching assistant in the **Privacy and Data Security** course;
-- In the fall semester of 2022 I was teaching assistant in the Discrete Mathematics course.
+I hold a Ph.D. in [Cryptology and Data Security](https://crypto.unibe.ch) from the University of Bern, where I had the privilege of conducting impactful research with Prof. [Christian Cachin](https://crypto.unibe.ch/cc/). 
 
-In summer 2021 I worked at [Chainlink](https://chainlinklabs.com) as research intern.
+![Profile](/images/phd.jpg)
+
+My primary focus during the Ph.D. has been on working on the model of *asymmetric trust* in distributed systems and blockchains. During my Ph.D. I have been involved in teaching activities:
+
+- Fall 2019: Cryptography
+- Fall 2020: Discrete Mathematics
+- Fall 2021: Privacy and Data Security
+- Fall 2022: Discrete Mathematics
+
+In summer 2021 I worked at [Chainlink](https://chainlinklabs.com) as a research intern.
+
+My academic background is rooted in Mathematics, a discipline I studied at [Università Cattolica del Sacro Cuore](https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali?rdeLocaleAttr=en).
 
 Before joining the Ph.D., I worked for a year and a half at [Interlogica](https://www.interlogica.it/en/) as **Blockchain developer**. Moreover, in 2018, I have been certified Ethereum developer from [ConsenSys](https://consensys.net/academy/bootcamp/). 
 
 I program in **Solidity** and **Go**, and I have a basic knowledge of **Python**, **Javascript** and **Java**. 
 
-I speak **Italian** (native), **English** (proficient), and **German** (beginner/intermediate). 
+On a personal note, I am a native Italian speaker, with proficiency in English, and a working knowledge of German.
 
+Thank you for visiting my page. Feel free to explore more about my research, experience, and interests.
