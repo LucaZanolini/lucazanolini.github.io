@@ -12,7 +12,7 @@ I am a research scientist at the [Ethereum Foundation](https://ethereum.org/en/f
 
 I hold a Ph.D. in [Cryptology and Data Security](https://crypto.unibe.ch) from the University of Bern, where I had the privilege of conducting impactful research with Prof. [Christian Cachin](https://crypto.unibe.ch/cc/). 
 
-My primary focus during the Ph.D. has been on working on the model of *asymmetric trust* in distributed systems and blockchains. During my Ph.D. I have been involved in teaching activities:
+My primary focus during the Ph.D. has been on working on the model of *asymmetric trust* in distributed systems and blockchains. During my Ph.D. I have been involved in teaching activities: 
 
 - Fall 2019: Cryptography
 - Fall 2020: Discrete Mathematics
