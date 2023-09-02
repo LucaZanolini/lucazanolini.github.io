@@ -10,9 +10,9 @@ redirect_from:
 
 I am a research scientist at the [Ethereum Foundation](https://ethereum.org/en/foundation/). My [research interests](https://dblp.uni-trier.de/pid/265/5787.html) include **blockchains**, **distributed systems**, and **consensus** protocols. My present work centers on developing *dynamically available* consensus protocols. 
 
-I hold a Ph.D. in [Cryptology and Data Security](https://crypto.unibe.ch) from the University of Bern, where I had the privilege of conducting impactful research with Prof. [Christian Cachin](https://crypto.unibe.ch/cc/). 
+I hold a PhD in [Computer Science](https://crypto.unibe.ch) from the University of Bern, where I had the privilege of conducting impactful research with Prof. [Christian Cachin](https://crypto.unibe.ch/cc/). 
 
-My primary focus during the Ph.D. has been on working on the model of *asymmetric trust* in distributed systems and blockchains. During my Ph.D. I have been involved in teaching activities: 
+My primary focus during the PhD has been on working on the model of *asymmetric trust* in distributed systems and blockchains. During my Ph.D. I have been involved in teaching activities: 
 
 - Fall 2019: Cryptography
 - Fall 2020: Discrete Mathematics

@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science, University of Bern, Bern (CH), 2023 
+* PhD in Computer Science, University of Bern, Bern (CH), 2023 
 * M.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2017
 * B.Sc. in Mathematics, Univesità Cattolica del Sacro Cuore, Brescia (IT), 2015
 
