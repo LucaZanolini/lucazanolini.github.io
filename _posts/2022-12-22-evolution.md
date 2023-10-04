@@ -12,6 +12,6 @@ Curious to know how the Ethereum proof-of-stake protocol, Gasper, evolved over t
 
 In order to better understand the currently implemented proof-of-stake consensus protocol of Ethereum, we start by presenting the original protocol, Gasper, by Buterin et al. In particular, in the first part, we highlight its underlying components and we formally present its properties. In the second part we analyze some of the most important problems faced by Gasper, and we present the current solutions that have been devised to cope with them.
 
-[https://notes.ethereum.org/@luca-zanolini/SyZAX6V8o](Part 1)
+[Part 1](https://notes.ethereum.org/@luca-zanolini/SyZAX6V8o)
 
-[https://notes.ethereum.org/@luca-zanolini/Skf98kZ_i](Part 2)
+[Part 2](https://notes.ethereum.org/@luca-zanolini/Skf98kZ_i)
