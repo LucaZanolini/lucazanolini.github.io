@@ -87,7 +87,7 @@ author:
   employer         : "Ethereum Foundation"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oi4uoSgAAAAJ&hl=en&authuser=1"
-  email            : "luca.zanolini@inf.unibe.ch"
+  email            : "luca.zanolini@ethereum.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   posts:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 
 
 # Defaults
