@@ -2,7 +2,7 @@
 title: "Guest lecture on the latest on ETH2"
 collection: teaching
 type: "CPSC 364: Introduction to Blockchains, Cryptocurrencies, and Smart Contracts"
-permalink: /teaching/2023-guest-lecture
+permalink: /teaching/2023-guest-lecture-yale
 venue: "Yale University"
 date: 2023-10-02
 #location: "Bern, Switzerland"
