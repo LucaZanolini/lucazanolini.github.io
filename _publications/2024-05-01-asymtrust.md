@@ -3,7 +3,7 @@ title: "Asymmetric Distributed Trust"
 collection: publications
 permalink: /publication/2024-asymtrust
 excerpt: 'Asymmetric Distributed Trust. [Blog Post](https://cryptobern.github.io/asymmetric/)'
-date: 2024
+#date: 2024
 venue: Distributed Computing
 # paperurl: https://link.springer.com/chapter/10.1007/978-3-030-93944-1_13
 # citation: 

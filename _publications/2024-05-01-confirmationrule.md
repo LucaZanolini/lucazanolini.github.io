@@ -3,7 +3,7 @@ title: "A Confirmation Rule for the Ethereum Consensus Protocol"
 collection: publications
 permalink: /publication/2024-confirmationrule
 excerpt: 'A Confirmation Rule for the Ethereum Consensus Protocol.'
-date: 2024
+#date: 2024
 # venue: PODC
 # paperurl: 
 # citation: 
