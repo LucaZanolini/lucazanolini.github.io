@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-oneround-TOB
 excerpt: 'TOB-SVD: Total-Order Broadcast with Single-Vote Decisions in the Sleepy Model.'
 # date: 
-# venue: CSF
+ venue: ICDCS
 # paperurl: 
 # citation: 
 ---
